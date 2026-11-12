@@ -8,5 +8,9 @@
 ### PUT
 <img width="952" height="533" alt="image" src="https://github.com/user-attachments/assets/73000394-cf5e-4a7f-9ad5-24cbfccfc113" />
 
+### DEELETE
+<img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/e1f8caac-e81a-4b93-b20b-f71a3c905506" />
+
+
 
 
